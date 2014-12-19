@@ -7,6 +7,10 @@ The game is created during the course Game and Avatar Programming (IDX5060) at t
 
 **NB2! Game was developed in no-sleep-fast-mode so there is definitely some code that should be rewritten!**
 
+# Demo
+
+You can play the game [here](http://s22su.github.io/smoking-game)
+
 # Technology & resources
 Almost all sprites used in the game are drawn by me and PSD files are attached. Sounds are recorded and edited by me. List of stuff that I "borrowed" from others:
 
